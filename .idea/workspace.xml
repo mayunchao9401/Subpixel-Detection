@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a54e513-1fbd-4726-ac6e-b8565ec469fb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T9QJrQCcxIwwQeumuBG5SFYmmA" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yolo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\pycharm\subpixel\data\mscoco" />
+      <recent name="D:\Projects\pycharm\subpixel-machine-learning\experiment" />
+      <recent name="D:\Projects\pycharm\subpixel-machine-learning" />
+      <recent name="D:\Projects\pycharm\subpixel-machine-learning\opencv_marker" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\pycharm\subpixel-machine-learning\experiment" />
+      <recent name="D:\Projects\pycharm\subpixel-machine-learning\train" />
+      <recent name="D:\Projects\pycharm\subpixel-machine-learning\opencv_marker\tiny_test_images" />
+      <recent name="D:\Projects\pycharm\TrashClassification\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.detect">
+    <configuration name="contrast" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TrashClassification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experiment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiment/contrast.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TrashClassification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lines" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lines/detect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_subpixel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TrashClassification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/experiment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiment/my_subpixel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TrashClassification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/training/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="widges" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TrashClassification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lines" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lines/widges.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.contrast" />
+      <item itemvalue="Python.my_subpixel" />
+      <item itemvalue="Python.detect" />
+      <item itemvalue="Python.widges" />
+      <item itemvalue="Python.train" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.detect" />
+        <item itemvalue="Python.my_subpixel" />
+        <item itemvalue="Python.contrast" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.widges" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a54e513-1fbd-4726-ac6e-b8565ec469fb" name="Default Changelist" comment="" />
+      <created>1572869762708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572869762708</updated>
+      <workItem from="1572869763840" duration="793000" />
+      <workItem from="1572932675647" duration="2547000" />
+      <workItem from="1572938838678" duration="27442000" />
+      <workItem from="1572967708172" duration="1745000" />
+      <workItem from="1573009313813" duration="3966000" />
+      <workItem from="1573016985687" duration="330000" />
+      <workItem from="1573019467158" duration="207000" />
+      <workItem from="1573022548060" duration="541000" />
+      <workItem from="1573023862798" duration="346000" />
+      <workItem from="1573024227141" duration="130000" />
+      <workItem from="1573025177854" duration="16218000" />
+      <workItem from="1573047598093" duration="6575000" />
+      <workItem from="1573055731837" duration="4597000" />
+      <workItem from="1573096227995" duration="3272000" />
+      <workItem from="1573099543468" duration="3920000" />
+      <workItem from="1573103486934" duration="1674000" />
+      <workItem from="1573105847369" duration="34608000" />
+      <workItem from="1573181817933" duration="2810000" />
+      <workItem from="1573187907014" duration="2698000" />
+      <workItem from="1573190659597" duration="220000" />
+      <workItem from="1573190897980" duration="921000" />
+      <workItem from="1573191943004" duration="120000" />
+      <workItem from="1573192084160" duration="579000" />
+      <workItem from="1573192688164" duration="1060000" />
+      <workItem from="1573193765093" duration="582000" />
+      <workItem from="1573194747892" duration="655000" />
+      <workItem from="1573195672019" duration="1842000" />
+      <workItem from="1573311693045" duration="872000" />
+      <workItem from="1573534543951" duration="19000" />
+      <workItem from="1573617646660" duration="228000" />
+      <workItem from="1573645455360" duration="989000" />
+      <workItem from="1573733671386" duration="8000" />
+      <workItem from="1573889215036" duration="451000" />
+      <workItem from="1574048142881" duration="4504000" />
+      <workItem from="1574052774885" duration="6071000" />
+      <workItem from="1574058874597" duration="2832000" />
+      <workItem from="1574061730081" duration="218000" />
+      <workItem from="1574061965845" duration="143000" />
+      <workItem from="1574062130163" duration="14551000" />
+      <workItem from="1574078279668" duration="14303000" />
+      <workItem from="1574128435752" duration="6977000" />
+      <workItem from="1574312513274" duration="93000" />
+      <workItem from="1574559638638" duration="2086000" />
+      <workItem from="1574652255619" duration="70000" />
+      <workItem from="1574652384181" duration="7156000" />
+      <workItem from="1574677730249" duration="6872000" />
+      <workItem from="1574686662980" duration="6411000" />
+      <workItem from="1574693314184" duration="52000" />
+      <workItem from="1574693382132" duration="450000" />
+      <workItem from="1574693847762" duration="1610000" />
+      <workItem from="1574695473836" duration="4799000" />
+      <workItem from="1574740790146" duration="1433000" />
+      <workItem from="1574743187820" duration="2404000" />
+      <workItem from="1574745631881" duration="44000" />
+      <workItem from="1574745691281" duration="16966000" />
+      <workItem from="1574766485696" duration="2639000" />
+      <workItem from="1574770621579" duration="3872000" />
+      <workItem from="1574774515735" duration="2313000" />
+      <workItem from="1574776863762" duration="249000" />
+      <workItem from="1574851217908" duration="4000" />
+      <workItem from="1574918956422" duration="240000" />
+      <workItem from="1575087962204" duration="1007000" />
+      <workItem from="1575109546458" duration="3223000" />
+      <workItem from="1575113146923" duration="4489000" />
+      <workItem from="1575171912931" duration="94000" />
+      <workItem from="1576328752921" duration="112000" />
+      <workItem from="1576335467820" duration="85000" />
+      <workItem from="1576673466661" duration="7000" />
+      <workItem from="1576673489126" duration="8000" />
+      <workItem from="1576673666442" duration="12000" />
+      <workItem from="1576808435888" duration="7021000" />
+      <workItem from="1576824994859" duration="6112000" />
+      <workItem from="1576847032769" duration="3500000" />
+      <workItem from="1576896655035" duration="1301000" />
+      <workItem from="1576897975385" duration="1580000" />
+      <workItem from="1576899592255" duration="1434000" />
+      <workItem from="1576912724241" duration="30000" />
+      <workItem from="1576912802792" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lines/groundtruth_marker.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/img_show.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lines/detect.py</url>
+          <line>131</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/training/dataset.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experiment/my_subpixel.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/experiment/my_subpixel.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="np.array(corners)" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/subpixel_machine_learning$harris.coverage" NAME="harris Coverage Results" MODIFIED="1574059156259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv_marker" />
+    <SUITE FILE_PATH="coverage/subpixel_machine_learning$subpixel_marker.coverage" NAME="subpixel_marker Coverage Results" MODIFIED="1574062133195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv_marker" />
+    <SUITE FILE_PATH="coverage/subpixel$detect.coverage" NAME="detect Coverage Results" MODIFIED="1576899898117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lines" />
+    <SUITE FILE_PATH="coverage/subpixel_machine_learning$train.coverage" NAME="train Coverage Results" MODIFIED="1574559756393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/training" />
+    <SUITE FILE_PATH="coverage/subpixel$groundtruth_marker.coverage" NAME="groundtruth_marker Coverage Results" MODIFIED="1574686744390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lines" />
+    <SUITE FILE_PATH="coverage/TrashClassification$_create_random_mark.coverage" NAME="_create_random_mark Coverage Results" MODIFIED="1573035170291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/subpixel$train.coverage" NAME="train Coverage Results" MODIFIED="1576832463019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/training" />
+    <SUITE FILE_PATH="coverage/TrashClassification$image_show_test.coverage" NAME="image_show_test Coverage Results" MODIFIED="1572962546607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/subpixel_machine_learning$test_dataset.coverage" NAME="test_dataset Coverage Results" MODIFIED="1574079652899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment" />
+    <SUITE FILE_PATH="coverage/subpixel_machine_learning$time_contrast.coverage" NAME="time_contrast Coverage Results" MODIFIED="1574078782265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment" />
+    <SUITE FILE_PATH="coverage/subpixel_machine_learning$subpixel.coverage" NAME="subpixel Coverage Results" MODIFIED="1574059178087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv_marker" />
+    <SUITE FILE_PATH="coverage/subpixel_machine_learning$widget.coverage" NAME="widget Coverage Results" MODIFIED="1574060963176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/TrashClassification$get_tensor.coverage" NAME="get_tensor Coverage Results" MODIFIED="1573023994358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/TrashClassification$plot_log.coverage" NAME="plot_log Coverage Results" MODIFIED="1573045215085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/subpixel_machine_learning$contrast.coverage" NAME="contrast Coverage Results" MODIFIED="1574567297575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment" />
+    <SUITE FILE_PATH="coverage/TrashClassification$dataset.coverage" NAME="dataset Coverage Results" MODIFIED="1573038940449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/subpixel_machine_learning$plot_log.coverage" NAME="plot_log Coverage Results" MODIFIED="1573145020327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/subpixel_machine_learning$dataset.coverage" NAME="dataset Coverage Results" MODIFIED="1574063748012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train" />
+    <SUITE FILE_PATH="coverage/subpixel$my_subpixel.coverage" NAME="my_subpixel Coverage Results" MODIFIED="1576898012945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment" />
+    <SUITE FILE_PATH="coverage/TrashClassification$_createRandomMark.coverage" NAME="_createRandomMark Coverage Results" MODIFIED="1573010730043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/subpixel_machine_learning$my_subpixel.coverage" NAME="my_subpixel Coverage Results" MODIFIED="1574567121216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment" />
+    <SUITE FILE_PATH="coverage/subpixel_machine_learning$Unittests_in_tiny_test_images.coverage" NAME="Unittests in tiny_test_images Coverage Results" MODIFIED="1573048852907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencv_marker/tiny_test_images" />
+    <SUITE FILE_PATH="coverage/subpixel_machine_learning$accuracy_contrast.coverage" NAME="accuracy_contrast Coverage Results" MODIFIED="1574078921691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment" />
+    <SUITE FILE_PATH="coverage/subpixel$contrast.coverage" NAME="contrast Coverage Results" MODIFIED="1576837987024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/experiment" />
+    <SUITE FILE_PATH="coverage/subpixel$widges.coverage" NAME="widges Coverage Results" MODIFIED="1574692808528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lines" />
+    <SUITE FILE_PATH="coverage/TrashClassification$test.coverage" NAME="test Coverage Results" MODIFIED="1573009602283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/subpixel_machine_learning$img_show.coverage" NAME="img_show Coverage Results" MODIFIED="1574054798332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/TrashClassification$train.coverage" NAME="train Coverage Results" MODIFIED="1573045203724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+  </component>
+</project>
